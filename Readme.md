@@ -66,17 +66,6 @@ I’ve worked with **U.S. and Pakistan‑based teams**, led end‑to‑end produ
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artixtic97&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artixtic97&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artixtic97&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🌱 Open‑Source & Engineering Focus

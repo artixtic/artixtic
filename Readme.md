@@ -106,32 +106,6 @@ I actively write about **Flutter architecture, scalability, real‑time systems,
 
 ---
 
-## 🧩 Open-Source Contributions
-
-### 🚀 Pushy Flutter SDK
-
-* ✅ **Merged Pull Request** to the official Pushy Flutter SDK
-* 🔗 [https://github.com/pushy/pushy-flutter/pull/101](https://github.com/pushy/pushy-flutter/pull/101)
-
-Contributed improvements to SDK reliability and developer experience for production Flutter push-notification workflows.
-
----
-
-## ✍️ Technical Writing & Articles
-
-I actively write about **scalable Flutter architecture, real-time systems, and cross-platform integration**:
-
-* 🧱 **Building Scalable Flutter Apps** — Clean Architecture deep dive
-  [https://medium.com/@artixtic97/building-scalable-flutter-apps-a-deep-dive-into-clean-architecture-with-getx-9b8a4e735edd](https://medium.com/@artixtic97/building-scalable-flutter-apps-a-deep-dive-into-clean-architecture-with-getx-9b8a4e735edd)
-
-* 🔌 **Building a Robust Socket Request Manager in Flutter**
-  [https://medium.com/@artixtic97/building-a-robust-socket-request-manager-in-flutter-27fb3cd02c48](https://medium.com/@artixtic97/building-a-robust-socket-request-manager-in-flutter-27fb3cd02c48)
-
-* 📡 **Hybrid BLE + Wi‑Fi Connectivity Architecture** (Flutter + Kotlin)
-  [https://medium.com/@artixtic97/building-a-hybrid-ble-wi-fi-connectivity-architecture-with-fapp-and-kotlinapp-4b4c0844c3f8](https://medium.com/@artixtic97/building-a-hybrid-ble-wi-fi-connectivity-architecture-with-fapp-and-kotlinapp-4b4c0844c3f8)
-
----
-
 ## 🔗 Connect With Me
 
 * 💼 LinkedIn: [Mahboob Ahmed](https://www.linkedin.com/in/mahboob-ahmed-04979420a/)

@@ -104,6 +104,9 @@ I actively write about **Flutter architecture, scalability, real‑time systems,
 * 📡 **Hybrid BLE + Wi‑Fi Connectivity Architecture** (Flutter + Kotlin)
   [https://medium.com/@artixtic97/building-a-hybrid-ble-wi-fi-connectivity-architecture-with-fapp-and-kotlinapp-4b4c0844c3f8](https://medium.com/@artixtic97/building-a-hybrid-ble-wi-fi-connectivity-architecture-with-fapp-and-kotlinapp-4b4c0844c3f8)
 
+* 🧭 **Flutter Navigation Explained — Every Approach, Their Pitfalls and What Actually Scales** (Flutter)  
+  [https://medium.com/@artixtic97/flutter-navigation-explained-every-approach-their-pitfalls-and-what-actually-scales-61605d6524c6?postPublishedType=initial](https://medium.com/@artixtic97/flutter-navigation-explained-every-approach-their-pitfalls-and-what-actually-scales-61605d6524c6?postPublishedType=initial)
+  
 ---
 
 ## 🔗 Connect With Me

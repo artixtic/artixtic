@@ -8,7 +8,7 @@ Senior Flutter Engineer • Mobile Architect • Open‑Source Contributor
 
 ---
 
-## 🚀 Flutter‑Focused Profile (Recruiter + Open‑Source Optimized)
+## 🚀 Flutter‑Focused Profile
 
 Senior Flutter Engineer with 5+ years of experience building scalable, high-performance mobile applications across Android and iOS. Strong foundation in Computer Science with hands-on expertise in Flutter, Dart, Android (Kotlin), Laravel, Node.js, Nest.js, Firebase, and MySQL, enabling delivery of end-to-end product solutions across frontend, backend, and IoT ecosystems.
 Proven track record of leading and delivering complex, production-grade systems, including smart home automation platforms, IoT ecosystems, real-time communication, multimedia applications, and high-traffic enterprise solutions. Deep experience integrating Home Assistant, MQTT, WebSockets, WebRTC, and offline-first architectures, with a strong focus on scalability, security, performance optimization, and system reliability.
@@ -48,7 +48,7 @@ Passionate about building user-centric, impactful products that solve real-world
 
 ---
 
-## 💼 Experience Snapshot (Recruiter‑Friendly)
+## 💼 Experience Snapshot
 
 ### 🏢 Senior Flutter Developer — **IRVINEi (USA)**
 

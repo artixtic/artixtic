@@ -10,9 +10,11 @@ Senior Flutter Engineer • Mobile Architect • Open‑Source Contributor
 
 ## 🚀 Flutter‑Focused Profile (Recruiter + Open‑Source Optimized)
 
-I’m a **Senior Flutter Engineer with 5+ years of experience**, specializing in building **scalable, production‑ready Flutter applications** for Android & iOS. I focus on **clean architecture, performance optimization, and real‑time systems**, while also contributing to open‑source and mentoring teams.
-
-I’ve worked with **U.S. and Pakistan‑based teams**, led end‑to‑end product development, and shipped apps used by **thousands of users** across **IoT, smart home automation, and enterprise domains**.
+Senior Flutter Engineer with 5+ years of experience building scalable, high-performance mobile applications across Android and iOS. Strong foundation in Computer Science with hands-on expertise in Flutter, Dart, Android (Kotlin), Laravel, Node.js, Nest.js, Firebase, and MySQL, enabling delivery of end-to-end product solutions across frontend, backend, and IoT ecosystems.
+Proven track record of leading and delivering complex, production-grade systems, including smart home automation platforms, IoT ecosystems, real-time communication, multimedia applications, and high-traffic enterprise solutions. Deep experience integrating Home Assistant, MQTT, WebSockets, WebRTC, and offline-first architectures, with a strong focus on scalability, security, performance optimization, and system reliability.
+Experienced in owning products from concept to deployment, including architecture design, API integration, CI/CD pipelines, automated testing, release management, and production support. Adept at optimizing application performance, improving stability, refactoring architectures, and delivering seamless user experiences across platforms.
+Demonstrated leadership through mentoring engineers, conducting code reviews, leading stand-ups, contributing to sprint planning, and driving adoption of clean, scalable engineering practices. Experienced working with Pakistan-based and U.S. remote teams, valuing clear communication, product thinking, and continuous learning.
+Passionate about building user-centric, impactful products that solve real-world problems and excited to contribute to teams where innovation, ownership, and technical excellence are valued.
 
 ---
 
